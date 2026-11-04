@@ -7,6 +7,7 @@
 - `templates/plan.md` 계획 양식 (목표 → Data → Logic → Action → 검증)
 - `templates/decision_log.md` 판단 기록 양식
 - `templates/report.md` 최종 보고 양식
+- `PROMPTS.md` 단계별 요청 문장
 - `templates/criteria.example.json` 판단 기준·가중치를 코드와 분리하는 설정 예시
 
 사용: 작업 폴더에 `AGENTS.md`와 `templates/` 내용을 복사한 뒤 시작합니다.
