@@ -1,7 +1,7 @@
 # 단계별 요청 문장
 
 ## 0. 시작 (codex 켜고 `/status`로 모델 확인 후)
-"github.com/yunhyuk-mun/cofa-harness clone해서 AGENTS.md, PROMPTS.md, templates 안의 파일들을 README.md가 있는 폴더에 복사해 줘. 같은 이름 파일이 이미 있으면 덮어쓰지 말고 알려 줘. 하네스의 README.md는 절대 복사하지 마. 끝나면 clone 폴더 지우고 ls로 보여 줘. 그다음 AGENTS.md 읽고 앞으로 그 규칙 따라 줘."
+"github.com/yunhyuk-mun/cofa-harness clone해서 AGENTS.md, PROMPTS.md, templates 안의 파일들을 README.md가 있는 폴더에 복사해 줘. 같은 이름 파일이 이미 있으면 덮어쓰지 말고 알려 줘. 하네스의 README.md는 절대 복사하지 마. 끝나면 clone 폴더 지우고 ls로 보여 줘. 그다음 AGENTS.md 읽고 앞으로 그 규칙 따라 줘. git 사용자 이름은 yunhyuk-mun, 메일은 moonyoonh41@gmail.com으로 이 폴더에만 설정해 줘."
 
 직접 할 때 (터미널):
 ```
